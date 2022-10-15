@@ -30,7 +30,7 @@ twitter_username: mattmaverick5
 github_username:  2ie
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 
 minima:
   skin: dark
